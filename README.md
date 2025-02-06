@@ -41,12 +41,12 @@ You can run the notebooks on your local machine, too. Clone the repository and f
 ## Tutorial Notebooks
 
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/tutorial.ipynb">
-<img src="https://storage.googleapis.com/lucid-static/common/stickers/colab-tutorial.png" width="500" alt=""></img>
+Tutorial
 </a>
 
 
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/modelzoo.ipynb">
-<img src="https://storage.googleapis.com/lucid-static/common/stickers/colab-modelzoo.png" width="500" alt=""></img>
+Moodle Zoo
 </a>
 
 <!--If you want to study techniques for visualizing and understanding neural networks, it's important to be able to try your experiments on multiple models. As of lucid v0.3, we provide a consistent API for interacting with 27 different vision models.-->
@@ -78,8 +78,8 @@ You can run the notebooks on your local machine, too. Clone the repository and f
 <img src="https://storage.googleapis.com/lucid-static/building-blocks/stickers/colab-semantic-dict.png" width="500" alt=""></img>
 </a>
 <br>
-<a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/building-blocks/ActivationGrid.ipynb">
-<img src="https://storage.googleapis.com/lucid-static/building-blocks/stickers/colab-grid.png" width="500" alt=""></img>
+<a href="https://colab.research.google.com/drive/1VEHVYxFHxWro7wF9hsi1sGIvc-10LdJx?usp=sharing">
+Activation Grids - Building Blocks of Interpretability
 </a>
 <br>
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/building-blocks/AttrSpatial.ipynb">
