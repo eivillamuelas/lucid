@@ -40,32 +40,30 @@ You can run the notebooks on your local machine, too. Clone the repository and f
 
 ## Tutorial Notebooks
 
-<a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/tutorial.ipynb">
-Tutorial
-</a>
+[Tutorial](https://colab.research.google.com/drive/1cLbKl6aonUCbUGx15L6hd7NejZEYbuhE?usp=drive_link)
 
+[Moodle Zoo](https://colab.research.google.com/drive/1rkiGgaibWStOd8s7jZZXKcDVREUhKD-T?usp=drive_link)
 
-<a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/modelzoo.ipynb">
-Moodle Zoo
-</a>
-
-<!--If you want to study techniques for visualizing and understanding neural networks, it's important to be able to try your experiments on multiple models. As of lucid v0.3, we provide a consistent API for interacting with 27 different vision models.-->
+If you want to study techniques for visualizing and understanding neural networks, it's important to be able to try your experiments on multiple models. As of lucid v0.3, we provide a consistent API for interacting with 27 different vision models.
 
 ## Feature Visualization Notebooks
 *Notebooks corresponding to the [Feature Visualization](https://distill.pub/2017/feature-visualization/) article*
 
-<a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/feature-visualization/negative_neurons.ipynb">
-<img src="https://storage.googleapis.com/lucid-static/feature-visualization/stickers/colab-neuron-negative.png" width="500" alt=""></img>
+<a href="https://colab.research.google.com/drive/1I-DEvk9FJuRWVvFyo2y_78nJuE-q0110?usp=drive_link">
+Negative Neurons - Feature Visualization
 </a>
 
+<br>
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/feature-visualization/neuron_diversity.ipynb">
 <img src="https://storage.googleapis.com/lucid-static/feature-visualization/stickers/colab-neuron-diversity.png" width="500" alt=""></img>
 </a>
 
+<br>
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/feature-visualization/neuron_interaction.ipynb">
 <img src="https://storage.googleapis.com/lucid-static/feature-visualization/stickers/colab-neuron-interaction.png" width="500" alt=""></img>
 </a>
 
+<br>
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/feature-visualization/regularization.ipynb">
 <img src="https://storage.googleapis.com/lucid-static/feature-visualization/stickers/colab-regularization.png" width="500" alt=""></img>
 </a>
@@ -102,10 +100,12 @@ Activation Grids - Building Blocks of Interpretability
 <img src="https://storage.googleapis.com/lucid-static/differentiable-parameterizations/stickers/colab-interpolate.png" width="500" alt=""></img>
 </a>
 
+<br>
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/style_transfer_2d.ipynb">
 <img src="https://storage.googleapis.com/lucid-static/differentiable-parameterizations/stickers/colab-style-beyond-vgg.png" width="500" alt=""></img>
 </a>
 
+<br>
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/xy2rgb.ipynb">
 <img src="https://storage.googleapis.com/lucid-static/differentiable-parameterizations/stickers/colab-xy2rgb.png" width="500" alt=""></img>
 </a>
@@ -114,6 +114,7 @@ Activation Grids - Building Blocks of Interpretability
 <img src="https://storage.googleapis.com/lucid-static/differentiable-parameterizations/stickers/colab-transparent.png" width="500" alt=""></img>
 </a>
 
+<br>
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/differentiable-parameterizations/texture_synth_3d.ipynb">
 <img src="https://storage.googleapis.com/lucid-static/differentiable-parameterizations/stickers/colab-3d-texture.png" width="500" alt=""></img>
 </a>
@@ -131,14 +132,17 @@ Activation Grids - Building Blocks of Interpretability
 <img src="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/lucid-notebook-1-collect.png" width="500" alt="Collecting activations"></img>
 </a>
 
+<br>
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-simple.ipynb">
 <img src="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/lucid-notebook-2-atlas.png" width="500" alt="Simple activation atlas"></img>
 </a>
 
+<br>
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/class-activation-atlas.ipynb">
 <img src="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/lucid-notebook-3-class-atlas.png" width="500" alt="Class activation atlas"></img>
 </a>
 
+<br>
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/activation-atlas/activation-atlas-adversarial.ipynb">
 <img src="https://storage.googleapis.com/modelzoo/tmp/activation-atlas/stickers/lucid-notebook-4-patches.png" width="500" alt="Activation atlas patches"></img>
 </a>
